@@ -1,0 +1,32 @@
+.. BUS 374 Organizational Theory documentation master file, created by
+   sphinx-quickstart on Mon Jan 21 12:06:24 2019.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Welcome to BUS 374 Organizational Theory's documentation!
+=========================================================
+
+.. toctree::
+    :maxdepth: 2
+    :caption: Contents:
+
+
+    cooperation
+    nature_of_the_firm
+
+    identities_genres_and_organizational_forms
+    population_ecology
+
+    status_conformity
+
+    jacks_and_masters
+
+    lect1
+    lect2
+    lect3
+
+
+Indices and tables
+==================
+
+* :ref:`search`

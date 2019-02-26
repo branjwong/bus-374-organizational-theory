@@ -1,0 +1,27 @@
+Do organizations always act similarly?
+======================================
+
+- why do they act similarly
+
+    - to stay competitive
+    - copying
+    - regularly
+    - impression management (manage perception)
+    - standardization needs
+
+- iron cage
+
+    - imprisoned by rules, procedures, hierarchy
+    - burearucracy possibly good for system, bad for individual
+    - checks and balances
+
+        - can make things move too slowly if too many
+
+- isomorphism
+
+    - coercive: forceful
+    - mimetic: copying
+    - normative: social in nature
+
+
+

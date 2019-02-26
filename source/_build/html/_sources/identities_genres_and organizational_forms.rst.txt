@@ -1,0 +1,89 @@
+Identities, Genres, and Organizational Forms
+============================================
+
+
+[Identities, genres, and organizational forms]_
+
+.. _Identities, genres, and organizational forms: https://www-jstor-org.proxy.lib.sfu.ca/stable/2626876?sid=primo&origin=crossref&seq=1#metadata_info_tab_contents)
+
+Introduction
+------------
+
+- question: how is an organization defined?
+
+    - e.g. identity as the fundamental basis for the conceptualization and identification of organizational forms
+
+- paper highlights benefits of identity-based answer 
+
+Population-Based Research
+-------------------------
+
+- organizational ecology
+
+    - examines the full histories of populations because early events can have lasting consequences for population dynamics
+    - gathers life history data on all organizations in the population(s) (famous and insignificant) to avoid problems of selectivity bias
+    - records detailed information about type of entry (e.g. new founding, entry from another industry, merger) and exit (dispanding, acquisition, etc)
+    - usese event-history methods to estimate the effects of characteristics of an organization, population, and evironment on the hazards of entry and exit
+
+- getting the population boundaries (e.g. individual, organization, industry) is hard
+
+- some forms do not fit any conventional notion of industry
+
+    - e.g. social movement organizations
+    - e.g. worker cooperatives
+
+- the value of population research depends heavily on whether the populations studied represent instances of meaningful social units, but there's little agreement on how to define forms
+
+Conceptualizing Organizational Identity
+---------------------------------------
+
+- organizational identity consists of social codes (or set of rules) that specify the features an organization is expected to possess
+- codes represent default expectations held by audiences about organizational properties and the constraints held by those properties
+- satisfaction or violation of codes affect the direction and strength of an audience's social approval of an organization
+- audiences impose constraints on the values organizations adopt through the threat of devaluation
+
+- locus of identity
+
+    - identity inheres in the expectations, assumptions, and beliefs held by agents, both internal and external to an organization
+    - organizations generally face multiple audiences that can hold different, perhaps conflicting, defaults for an organozation
+    
+        - e.g. differences between top-managers and entry-level workers
+        - e.g. differences across classes of outsiders: government regulartors, critics, industry analysists, consumers and clients
+
+        - **institutional consolidation** (IC) of identity, the complete agreement among different audiences about the codes and expectations for identity
+            
+            - low IC: conflicting demands on organizations
+
+                - confusion and ambiguity for organizational decision makers
+                - hampers an organization's ability to negotiate its external environment
+                - often, the difficulty of managing a multiplicity of different identity outweighs the potential advantages
+                - potential advantage: enabiling one to maintain a relatively wide array of options across unforeseeable futures to avoid entanglement
+
+            - high IC: all audiences hold the same expectations and enforce the same codes
+                
+                - violations of standards are met with sharp devaluations
+                - presumably generates greater adherence to and persistence of codes
+
+- perceived satisfaction or violation of identity codes has important and observable consequences for organizations
+
+- conception of identity differs from the common perspective of literature on organizational behaviour
+
+    - treats organizaitonal identity as solely determined by the organization's members
+    - research on identity that limits its focus to organizational insiders cannot determine the relative importance of internal vs. external constraints
+
+Organizational Forms
+--------------------
+
+- organizational forms represent a special kind of collective organizational identity
+- the concept of a form involves an abstraction from the uniqueness of individual organizations nad a typification of commonality
+    
+    - e.g. individual organizations come to resemble one another (through immitation or selection) and audiences recognize and code the resemblances into a form
+    - e.g. state authorities specify a code for a new kind of organization, authorize it, and create incentives that benefit those actors who adopt the authorizated design
+
+- suppose that before there is an organizational form, there is an audience's **codified category**, which acts a placeholder for the cultural object that can potential become a form
+
+    - represented as an ordered pair:
+    
+        (<an audience's label>, [ <its codes> ])
+
+    - 
