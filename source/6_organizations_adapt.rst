@@ -3,6 +3,10 @@ How Do Organizations Adapt?
 
 `Kozhikode, R. K. 2016. Dormancy as a Strategic Response to Detrimental Public Policy. Organization Science, In press. <https://pubsonline-informs-org.proxy.lib.sfu.ca/doi/pdf/10.1287/orsc.2015.1027>`_
 
+
+Jasmin
+------
+
 - Dormancy entails a temporary reduction in an organizations level of activity
     
     - Dormancy is rewarded when the favourable policy return (negative policy gone)
