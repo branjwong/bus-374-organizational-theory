@@ -11,15 +11,14 @@ Welcome to BUS 374 Organizational Theory's documentation!
     :caption: Article Notes
 
     1_cooperation
-
+    2_nature_of_the_firm
     3_identities_genres_and organizational_forms
-
+    3_population_ecology
     4_status_conformity
+    5_jacks_and_masters
+    6_organizations_adapt
+    6_the_red_queen
 
-
-.. 2_nature_of_the_firm
-.. 3_population_ecology
-.. 5_jacks_and_masters
 
 .. toctree::
     :maxdepth: 2
