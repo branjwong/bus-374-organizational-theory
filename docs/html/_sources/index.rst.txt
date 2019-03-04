@@ -16,6 +16,7 @@ Welcome to BUS 374 Organizational Theory's documentation!
     3_population_ecology
     4_status_conformity
     5_jacks_and_masters
+    5_new_institutionalism
     6_organizations_adapt
     6_the_red_queen
 
