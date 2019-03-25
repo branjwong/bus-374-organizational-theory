@@ -19,12 +19,15 @@ Welcome to BUS 374 Organizational Theory's documentation!
     5_new_institutionalism
     6_organizations_adapt
     6_the_red_queen
+    7_trust_alliance
+    7_multiple_geographic_markets
 
 
 .. toctree::
     :maxdepth: 2
     :caption: Lecture Notes
 
+    midterm
     lect1
     lect2
     lect3
