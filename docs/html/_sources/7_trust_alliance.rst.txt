@@ -119,9 +119,28 @@ Trust, Behavioural Uncertainty, and Alliance Performance
 Trust, Environmental Uncertainty, and Alliance Performance
 ``````````````````````````````````````````````````````````
 
+- e.g. instability or unpredictabiliity in markets
+- demands speedy an dresponsive decisions
+- requires organizations to engage in significant scanning of their environment in search of accurate and reliable information that enables them to interpret and act upon the threats and opportunities facing them
 
+    - unpredictable changes in the environment stand to change the performance of an alliance
+    - information processessing may be a bottleneck because of problems of information overload, which are exacerbated by information unfamiliarity
+    - cognitive limitations may introduce considerable limitations and biases in the decision-making process, by prompting the appliaction of innappropriate rules-of-thumb
 
+- the risk that biases will enter decision making in uncertain environments is greater in the presence of trust, esp. in alliances
 
+    - trust enables decision making under the conditions of uncertaintiy, but may also produce systematic biases that can result in significant errors
+    - when partners trust eachother, their tendency to screen th einformation provided by the other for accuracy decreases, and their inclanation to accept information at face value increases
+    
+- trusting alliance partners may even experience **strategic blindness**, outright insensitivity to environmental changes
+
+    - because partners commit resources, effort, and time in the process of vultivating trust, they tend to be wary of actions that may damage the relationship
+    - if responding to environmental change would require major changes, partners may be apprehensive about the eventuality of having to cultivate trust and adjust to a new partner all over again, or having to go it alone
+
+- interorganizational trust stands to result in inadequate response to challenges posed by an uncertain environment becuase it limits cognitive efforts or causes strategic blindness
+
+    - the positive effect of interorganizational trust is on alliance performance is weaker when market instability is high than low
+    - the positive effect of interorganizational trust on alliance performance is weaker when market unpredictabiliity is high than when it is low
     
 
 
