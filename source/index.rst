@@ -63,6 +63,12 @@ Welcome to BUS 374 Organizational Theory's documentation!
 
 .. toctree::
     :maxdepth: 2
+    :caption: Week 9
+
+    9_status_quality_social_order
+    
+.. toctree::
+    :maxdepth: 2
     :caption: Lecture Notes
 
     midterm
