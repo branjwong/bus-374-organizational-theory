@@ -21,6 +21,7 @@ Welcome to BUS 374 Organizational Theory's documentation!
     6_the_red_queen
     7_trust_alliance
     7_multiple_geographic_markets
+    8_social_movement_activism
 
 
 .. toctree::
