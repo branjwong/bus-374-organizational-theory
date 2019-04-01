@@ -1,5 +1,5 @@
-Middle-Status Conformity: Theoretical Restatement and Empirical Demonstration in Two Markets
-============================================================================================
+Middle-Status Conformity
+========================
 
 `Phillips, D. J., & Zuckerman, E. W. 2001. Middle status conformity: theoretical restatement and Empirical Demonstration in Two Markets. American Journal of Sociology, 107(2): 379-429 <https://www-jstor-org.proxy.lib.sfu.ca/stable/10.1086/324072>`_
 

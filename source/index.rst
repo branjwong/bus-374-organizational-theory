@@ -8,19 +8,56 @@ Welcome to BUS 374 Organizational Theory's documentation!
 
 .. toctree::
     :maxdepth: 2
-    :caption: Article Notes
+    :caption: Week 1
 
     1_cooperation
+
+.. toctree::
+    :maxdepth: 2
+    :caption: Week 2
+
     2_nature_of_the_firm
+
+
+.. toctree::
+    :maxdepth: 2
+    :caption: Week 3
+    
     3_identities_genres_and organizational_forms
     3_population_ecology
+
+
+.. toctree::
+    :maxdepth: 2
+    :caption: Week 4
+    
     4_status_conformity
+
+.. toctree::
+    :maxdepth: 2
+    :caption: Week 5
+    
     5_jacks_and_masters
     5_new_institutionalism
+
+.. toctree::
+    :maxdepth: 2
+    :caption: Week 6
+
     6_organizations_adapt
     6_the_red_queen
+
+.. toctree::
+    :maxdepth: 2
+    :caption: Week 7
+
     7_trust_alliance
     7_multiple_geographic_markets
+
+.. toctree::
+    :maxdepth: 2
+    :caption: Week 8
+    
     8_social_movement_activism
 
 

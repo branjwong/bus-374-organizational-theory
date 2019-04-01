@@ -1,5 +1,5 @@
-Exploring the limits of the new institutionalism: The causes and consequences of illegitimate organizational change
-===========================================================================================================================================
+The Causes and Consequences of Illegitimate Organizational Change
+=================================================================
 
 `Kraatz, M. S., & Zajac, E. J. 1996. Exploring the limits of the new institutionalism: The causes and consequences of illegitimate organizational change. American Sociological Review, 61(5): 812-836. <https://www-jstor-org.proxy.lib.sfu.ca/stable/pdf/2096455.pdf>`_
 

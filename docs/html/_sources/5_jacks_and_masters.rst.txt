@@ -1,5 +1,5 @@
-Jacks of All Trades and Masters of None: Audiences’ Reactions to Spanning Genres in Feature Film Production
-===========================================================================================================
+Jacks of All Trades and Masters of None
+=======================================
 
 `Hsu, G. 2006. Jacks of all trades and masters of none: Audiences' reactions to spanning genres in feature film production. Administrative Science Quarterly, 51(3): 420-450. <https://www-jstor-org.proxy.lib.sfu.ca/stable/2626876>`_
 
