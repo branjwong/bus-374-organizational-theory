@@ -3,15 +3,7 @@ Jacks of All Trades and Masters of None
 
 `Hsu, G. 2006. Jacks of all trades and masters of none: Audiences' reactions to spanning genres in feature film production. Administrative Science Quarterly, 51(3): 420-450. <https://www-jstor-org.proxy.lib.sfu.ca/stable/2626876>`_
 
-
-Synopsis
---------
-
-- develop insight into the trade-off
-
-
-Jasmin
-------
+.. note:: This section was done by Jasmin!
 
 - The assumption “principal of allocation”: the greater the diversity in regions of resource space targeted by an organization, the lower the organizations capacity to perform well within them
 

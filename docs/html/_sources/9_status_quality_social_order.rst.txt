@@ -102,11 +102,17 @@ Affillation, Status, and Quality
     - if market actors with low-status affillations bid for inputs that are necessary to produce high-quality goods, it is likely these actors will be outbid by their competitors with higher-status affiliations, since this latter group will be able to command higher prices for the goods that follow
     - low status actors may face greater barriers and have less incentive to pay the costs as associated with producing high-quality products, whereas high status actors will have fewer barriers and thus greater incentive to produce hihger quality
 
-- hypotheses
+.. admonition:: Hypothesis 1
 
-    1. the status of an actor's affilliates will have a positive effect on the actor's reqards in the market
-    2. the status of an actor's affiliates will increase returns to past demonstrations of quality
-    3. the higher the status of an actor's affiliates, the more likely that the actor will subsequently choose to produce high-quality products
+    the status of an actor's affilliates will have a positive effect on the actor's reqards in the market
+
+.. admonition:: Hypothesis 2
+
+    the status of an actor's affiliates will increase returns to past demonstrations of quality
+
+.. admonition:: Hypothesis 3
+
+    the higher the status of an actor's affiliates, the more likely that the actor will subsequently choose to produce high-quality products
 
 - question: what prevents all actors from developing high-status affiliations, and, in the process, diluting the status signal?
 
@@ -119,7 +125,9 @@ Affillation, Status, and Quality
 
         - if there is a cost associated with affiliation, and if the actions of low-status firms are less likely to be noted, then low-status firms will obtain lower returns and be less likely to investment
 
-- Hypothesis 4. the higher (or lower) an actor's status, the greater (or less) the net benefit the actor will derive from subsequent high-status affiliation
+.. admonition:: Hypothesis 4
+
+    the higher (or lower) an actor's status, the greater (or less) the net benefit the actor will derive from subsequent high-status affiliation
 
     - returns to high-status affiliation will be lower for actors that have not established high-status affilliations in the past
 

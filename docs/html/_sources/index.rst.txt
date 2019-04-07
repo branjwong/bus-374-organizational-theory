@@ -59,6 +59,7 @@ Welcome to BUS 374 Organizational Theory's documentation!
     :caption: Week 8
     
     8_social_movement_activism
+    8_political_pluralism
 
 
 .. toctree::
@@ -66,6 +67,13 @@ Welcome to BUS 374 Organizational Theory's documentation!
     :caption: Week 9
 
     9_status_quality_social_order
+    9_partner_exchange_choices
+    
+.. toctree::
+    :maxdepth: 2
+    :caption: Week 10
+
+    10_status_and_corporate_illegality
     
 .. toctree::
     :maxdepth: 2
@@ -75,6 +83,7 @@ Welcome to BUS 374 Organizational Theory's documentation!
     lect1
     lect2
     lect3
+    lect10
 
 
 Indices and tables
